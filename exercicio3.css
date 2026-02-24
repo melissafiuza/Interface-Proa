@@ -1,0 +1,166 @@
+body{
+    background-color: rgb(207, 207, 207);
+}
+#camada1{
+    position: absolute;
+    width: 1000px;
+    height: 300px;
+    background-color: salmon;
+    top: 5px;
+    left: 250px;
+    z-index: 2;
+}
+#camada2{
+    position: absolute;
+    width: 500px;
+    height: 30px;
+    background-color: white;
+    top: 155px;
+    left: 500px;
+    z-index: 3;
+}
+#camada3{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+    top: 155px;
+    left: 970px;
+    z-index: 3;
+}
+#camada4{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(160, 158, 158);
+    top: 330px;
+    left: 420px;
+    z-index: 4;
+}
+
+#camada5{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(160, 158, 158);
+    top: 330px;
+    left: 590px;
+    z-index: 5; 
+}
+#camada6{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(160, 158, 158);
+    top: 330px;
+    left: 760px;
+    z-index: 6; 
+}
+#camada7{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(160, 158, 158);
+    top: 330px;
+    left: 930px;
+    z-index: 7; 
+}
+#camada8{
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    background-color: white;
+    top: 337.5px;
+    left: 445px;
+    z-index: 8;  
+}
+#camada9{
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    background-color: white;
+    top: 337.5px;
+    left: 615px;
+    z-index: 9; 
+}
+#camada10{
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    background-color: white;
+    top: 337.5px;
+    left: 795px;
+    z-index: 10; 
+}
+#camada11{
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    background-color: white;
+    top: 337.5px;
+    left: 955px;
+    z-index: 10;  
+}
+#camada12{
+    position: absolute;
+    width: 185px;
+    height: 155px;
+    background-color: salmon;
+    top: 385px;
+    left: 335px;
+    z-index: 12;  
+}
+ #camada13{
+    position: absolute;
+    width: 185px;
+    height: 155px;
+    background-color: rgb(211, 211, 211);
+    top: 385px;
+    left: 540px;
+    z-index: 13;  
+ }
+ #camada14{
+    position: absolute;
+    width: 185px;
+    height: 155px;
+    background-color:aqua;
+    top: 385px;
+    left: 745px;
+    z-index: 14; 
+ }
+ #camada15{
+    position: absolute;
+    width: 185px;
+    height: 330px;
+    background-color: rgb(211, 211, 211);
+    top: 385px;
+    left: 950px;
+    z-index: 15; 
+ }
+ #camada16{
+    position: absolute;
+    width: 185px;
+    height: 155px;
+    background-color: aqua;
+    top: 560px;
+    left: 335px;
+    z-index: 16;
+ }
+ #camada17{
+    position: absolute;
+    width: 390px;
+    height: 155px;
+    background-color: salmon;
+    top: 560px;
+    left: 540px;
+    z-index: 16;
+ }
+ #camada18{
+    position: absolute;
+    width: 1000px;
+    height: 720px;
+    background-color: white;
+    top: 5px;
+    left: 250px;
+    z-index: 1;
+ }
