@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+main{
+    width: 90%;
+    height: 700px;
+    background-color: antiquewhite;
+    margin: auto;
+}
+header{
+    position: relative;
+    width: 100%;
+    height: 150px;
+    background-color:chartreuse;
+    text-align: center;
+    font-size: 30px;
+}
+#esquerda{
+    position: relative;
+    width: 30%;
+    height: 510px;
+    background-color:aqua;
+    font-size: 15px;
+    float: left;
+}
+nav{
+    position: relative;
+    width: 90%;
+    height: 235px;
+    background-color:white;
+    font-size: 15px;
+    margin-left: 5%;
+    margin-top: 0px;
+    
+}
+aside{
+    position: relative;
+    width: 90%;
+    height: 235px;
+    background-color:white;
+    font-size: 15px;  
+    margin-left: 5%;
+    margin-top: 10px; 
+}
+#direita{
+   position: relative;
+    width: 70%;
+    height: 510px;
+    background-color:rgb(131, 0, 213);
+    font-size: 15px; 
+    float: left;
+}
+article{
+    position: relative;
+    width: 98%;
+    height: 492px;
+    background-color:white;
+    font-size: 15px; 
+    margin: auto;
+}
+h1{
+    font-size: 20px; 
+    background-color: aqua;
+    text-align: center;
+}
+p{
+    font-size: 20px; 
+    background-color:brown;
+    width: 30%;
+    color: white;
+}
+#p{
+   position: relative;
+    width: 100%;
+    height: 170px;
+    background-color: brown;
+    margin-top: 10px;
+}
+#imagem{
+    position: relative;
+    width: 100%;
+    height: 250px;
+    background-color:violet;
+    margin-top: 10px;
+}
+footer{
+    color: white;
+    position: relative;
+    width: 100%;
+    height: 70px;
+    background-color:rgb(63, 32, 2);
+    margin-top: 10px;
+    clear: left;
+}
